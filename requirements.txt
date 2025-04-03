@@ -1,0 +1,9 @@
+langchain
+langchain_community
+langchain_core
+langchain_deepseek
+langchain_huggingface
+python-dotenv
+streamlit
+faiss-cpu
+altair
